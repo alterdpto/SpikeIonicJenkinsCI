@@ -1,0 +1,1 @@
+# Arch Spike for getting Ionic to run in Jnekins and deployed on Firebase
